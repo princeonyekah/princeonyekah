@@ -42,9 +42,7 @@
 
 - <b>Full Stack Web App </b>
   - [Blog App](https://github.com/princeonyekah/blog_app) <h>InkVue is platform that lets you create and share your thoughts, ideas, and stories with the world. Whether you're a seasoned writer or just starting out. InkVue provides you with the tools you need to create beautiful and engaging blog posts.</h>
-- <b> To-Do-App (Web Application)</b>
   - [To-do App](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-team-great-codes) <h>A  to-do app designed to help you stay organized and productive.Yu can easily create, manage, and prioritize your tasks, ensuring you stay organized. </h>
-- <b> Quiz App </b>
   - [Quiz App](https://github.com/kibo-web-app-dev-oct-23/midterm-project-quiz-app-team-great-codes) <h>A fun and interactive quiz application designed to test your knowledge on various topics. <h>
 
 
