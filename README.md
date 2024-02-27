@@ -33,6 +33,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
+👨‍💻Projects:
+### [To-do List Application](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-team-great-codes)
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
