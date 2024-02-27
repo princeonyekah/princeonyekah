@@ -33,8 +33,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
-👨‍💻Projects:
-### [To-do List Application](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-team-great-codes)
+<h3>👨‍💻Projects:</h3>
+
+- <b>Data Structures and Algorithms </b>
+  - [Linked List String]([https://github.com/kibo-dsa-jan-24/dsa-assignment2](https://github.com/kibo-dsa-jan-24/dsa-assignment3-princeonyekah))
+  - [SET Abstract Data types](https://github.com/kibo-dsa-jan-24/dsa-assignment1-princeonyekah)
+  - [Recursive Print](https://github.com/kibo-dsa-jan-24/dsa-recursive-print-princeonyekah)
+
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Blog App](https://github.com/princeonyekah/blog_app) <h>InkVue is platform that lets you create and share your thoughts, ideas, and stories with the world. Whether you're a seasoned writer or just starting out. InkVue provides you with the tools you need to create beautiful and engaging blog posts.</h>
+- <b> To-Do-App (Web Application)</b>
+  - [To-do App](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-team-great-codes) <h>A  to-do app designed to help you stay organized and productive.Yu can easily create, manage, and prioritize your tasks, ensuring you stay organized. </h>
+- <b> Quiz App </b>
+  - [Quiz App](https://github.com/kibo-web-app-dev-oct-23/midterm-project-quiz-app-team-great-codes) <h>A fun and interactive quiz application designed to test your knowledge on various topics. <h>
+
 
 
 
