@@ -36,7 +36,7 @@
 <h3>👨‍💻Projects:</h3>
 
 - <b>Data Structures and Algorithms </b>
-  - [Linked List String](https://github.com/kibo-dsa-jan-24/dsa-assignment2](https://github.com/kibo-dsa-jan-24/dsa-assignment3-princeonyekah)
+  - [Linked List String](https://github.com/kibo-dsa-jan-24/dsa-assignment3-princeonyekah)
   - [SET Abstract Data types](https://github.com/kibo-dsa-jan-24/dsa-assignment1-princeonyekah)
   - [Recursive Print](https://github.com/kibo-dsa-jan-24/dsa-recursive-print-princeonyekah)
 
